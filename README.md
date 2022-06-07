@@ -55,7 +55,8 @@
  ## 📫 How to reach me?
 
 
-[![LinkedIn](https://www.linkedin.com/in/anselmo-margelo-taccola-36417b13b//)
+[![LinkedIn][![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
+	(https://www.linkedin.com/in/anselmo-margelo-taccola-36417b13b/)
 
 	
 <details>
