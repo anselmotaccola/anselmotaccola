@@ -6,7 +6,7 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anselmotaccola&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmotaccola&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anselmotaccola&theme=radical&hide_border=true"/>
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/eJjBP5o1N8tR7Hem2g/giphy.gif" width="60"> 
-    A passionate developer, currently working as Software QA Engineer at Zé Delivery
+    Lead QA | Analista QA | Robot Framewwork | Python | TAG Tecnologia para o Sistema Financeiro
 
   
 ###  ⚙️ Some Tool and Tech I use:     
@@ -54,8 +54,9 @@
   
  ## 📫 How to reach me?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]
-(https://www.linkedin.com/in/anselmo-margelo-taccola-36417b13b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anselmo-margelo-taccola/)
+
 
 
    
+![Snake animation](https://github.com/anselmotaccola/anselmotaccola/blob/output/github-contribution-grid-snake.svg)
