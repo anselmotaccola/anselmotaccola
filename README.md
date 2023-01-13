@@ -3,7 +3,7 @@
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anselmotaccola&theme=radical"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=anselmotaccola&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anselmotaccola&layout=compact&langs_count=7&theme=radical&hide_border=true"/> <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=anselmotaccola&theme=radical&hide_border=true"/>
+
 	 	  	  
 ### A little about me...  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="60"> 
     Lead QA | Analista QA | Robot Framewwork | Python | TAG Tecnologia para o Sistema Financeiro
